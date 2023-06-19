@@ -22,7 +22,7 @@ The  flow of each nft game causes 3 main problems
 6. Fully Ethereum Virtual Machine (EVM)
 
 ## Web App Demo
-### 1. Nautilus Testnet : [https://mantle-testnet.netlify.app](https://catalyst-app.pages.dev/)
+### 1. Nautilus Testnet : [https://catalyst-app.pages.dev](https://catalyst-app.pages.dev)
 
 ## Features
 * Adventure, action RPG game
