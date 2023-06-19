@@ -55,7 +55,7 @@ The  flow of each nft game causes 3 main problems
 ### Ninja Catalyst Game Prof.
 ### Front UI
 <p align ="center">
-<img src=./Prof/p1.png">
+<img src="./Prof/p1.png">
 </p>
 
 ### Swap/Buy Catalyst Token
