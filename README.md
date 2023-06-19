@@ -48,8 +48,8 @@ The  flow of each nft game causes 3 main problems
 
 
 ### Smart Contracts on Nautilus Testnet : 
-- [x] Catalyst: (0x6217393DFa39dB5a77Ebbc952a1705935aEC0dDF)[https://triton.nautscan.com/triton/search/0x36CcdB3a9e0f8Fa30D07CFf2ff03Cc79b8fF9Fbe]
-- [x] Catadi:  (0x36CcdB3a9e0f8Fa30D07CFf2ff03Cc79b8fF9Fbe)[https://triton.nautscan.com/triton/search/0x36CcdB3a9e0f8Fa30D07CFf2ff03Cc79b8fF9Fbe]
+- [x] Catalyst: [0x6217393DFa39dB5a77Ebbc952a1705935aEC0dDF](https://triton.nautscan.com/triton/search/0x36CcdB3a9e0f8Fa30D07CFf2ff03Cc79b8fF9Fbe)
+- [x] Catadi:  [0x36CcdB3a9e0f8Fa30D07CFf2ff03Cc79b8fF9Fbe](https://triton.nautscan.com/triton/search/0x36CcdB3a9e0f8Fa30D07CFf2ff03Cc79b8fF9Fbe)
 
 
 ### Ninja Catalyst Game Prof.
